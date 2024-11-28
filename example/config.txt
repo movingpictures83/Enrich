@@ -1,0 +1,2 @@
+Prefix plugins/Enrich/example/
+Plugin Enrich inputfile parameters.enrich.txt outputfile enriched.rds

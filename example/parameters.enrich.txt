@@ -1,0 +1,2 @@
+database	my_database
+compounds	compounds.txt
